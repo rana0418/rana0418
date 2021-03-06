@@ -1,0 +1,137 @@
+/*TAG SELECTORS*/
+
+h1 {
+  color: #ffa5a5;
+  margin: 10px auto 0 auto;
+  font-family: 'Caveat', cursive;
+  font-size: 5.625rem;
+
+}
+
+body {
+background-color: #fcdada;
+margin: 0;
+
+  text-align: center;
+}
+h3 {
+  color: #5c969e;
+  font-family: 'Roboto Slab', serif;
+}
+h2 {
+    color: #ffa5a5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    font-weight: normal;
+    line-height: 2;
+
+}
+hr {
+  border-style:dotted none none none;
+
+  border-color:#3d7ea6;
+  border-top-width: thick ;
+  width: 5%;
+    margin: 50px auto;
+
+
+}
+p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.2rem
+}
+/* CLASS SELECTORS*/
+
+
+.top-container {
+  position: relative;
+
+}
+.kozume {
+margin-top: 40px;
+  width: 300px;
+
+}
+
+.footer-link {
+  color: #5c969e;
+  text-decoration: none;
+  position: relative;
+  top: 20px;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+.btn {
+  color:#3d7ea6;
+}
+.heart-icon {
+  width: 20%;
+  float:left;
+  margin-right: 30px
+}
+.heart-icon2 {
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+}
+.cloud-1 {
+  position: relative;
+left: 30%;
+  width: 300px;
+}
+.cloud-2 {
+  position: relative;
+  right: 30%;
+  width: 300px;
+
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 14px;
+  line-height: 14px;
+  color: #FFFFFF;
+  font-family: Arial;
+  width: 185px;
+  font-size: 25px;
+  font-weight: 300;
+  padding: 20px;
+  border-color-hover:
+  border-style-hover: solid;
+  border-width-hover: 1;
+  background-color: #5C969E;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+
+.btn:hover {
+  background: #3D7EA6;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #ffa5a5;
+  height: 100px;
+  position: relative;
+}
+#copyright {
+  color: white;
+  font-size: .8em;
+  position: relative;
+  top: 25px
+}
