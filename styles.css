@@ -30,10 +30,10 @@ h2 {
 hr {
   border-style:dotted none none none;
   border-color:#3d7ea6;
-  border-top-width:thick;
+  border-width:thick;
   width:5%;
   margin: 50px auto;
-  border-radius:100% 0 0 0;
+  
 
 
 }
