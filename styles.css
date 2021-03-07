@@ -157,8 +157,8 @@ display:inline-block;
 }
 .description {
   position: relative;
-  right:25rem;
-  bottom:25rem;
+  right:24rem;
+  bottom:24rem;
   text-align: left;
 }
 #challenge:hover {
