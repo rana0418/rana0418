@@ -52,11 +52,11 @@ p {
 }
 .me {
 margin-top: 2em;
-  margin-left:2em;
+
   width: 500px;
   border-radius: 100%;
-  display:inline;
-  text-align:left;
+  display:inline-block;
+  
 
 }
 
