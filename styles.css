@@ -67,14 +67,10 @@ p {
   color:#3d7ea6;
 }
 .heart-icon {
-  width: 20%;
-  float:left;
-  margin-right: 30px
+ 
 }
 .heart-icon2 {
-  width: 20%;
-  float:left;
-  margin-right: 30px;
+ 
 }
 .cloud-1 {
   position: relative;
@@ -130,10 +126,7 @@ margin-top: 10px;
 
 #challenge
 {
-  width: 70%;
-  transition: width .5s;
-  position:relative;
-  left:15%;
+ 
 }
 .profile {
 
