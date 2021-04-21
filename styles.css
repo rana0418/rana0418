@@ -50,9 +50,12 @@ p {
   position: relative;
 
 }
+.me {
+margin-top: 40px;
+  width: 300px;
+  border-radius: 100%;
 
-
-
+}
 
 .footer-link {
   color: #5c969e;
@@ -67,10 +70,14 @@ p {
   color:#3d7ea6;
 }
 .heart-icon {
- 
+  width: 20%;
+  float:left;
+  margin-right: 30px
 }
 .heart-icon2 {
- 
+  width: 20%;
+  float:left;
+  margin-right: 30px;
 }
 .cloud-1 {
   position: relative;
@@ -84,7 +91,11 @@ left: 30%;
 
 
 }
-
+.skill-row {
+margin: 0 15% 0 15%;
+display: inline-block;
+text-align: left;
+}
 .btn {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -116,7 +127,11 @@ margin-top: 10px;
   border-radius: 20px;
   text-decoration: none;
 }
-
+.bottom-container {
+  background-color: #ffa5a5;
+  height: 100px;
+  position: relative;
+}
 #copyright {
   color: white;
   font-size: .8em;
@@ -126,15 +141,25 @@ margin-top: 10px;
 
 #challenge
 {
- 
+  width: 70%;
+  transition: width .5s;
+  position:relative;
+  left:15%;
 }
 .profile {
-
+display:inline-block;
 }
 .skills {
-  
+  display: inline;
+  margin: 0 5%;
+  position: absolute;
+  text-align: right;
+}
 .description {
-  
+  position: relative;
+  right:24rem;
+  bottom:24rem;
+  text-align: left;
 }
 #challenge:hover {
   width:75%;
@@ -145,7 +170,26 @@ margin-top: 10px;
   transition: opacity .5s;
 
 }
+.space1:hover {
 
+  opacity: 100%
+}
+.blender {
+  opacity: 60%;
+  transition: opacity .5s;
+}
+.blender:hover {
+
+  opacity: 100%
+}
+.space2 {
+  opacity: 60%;
+  transition: opacity .5s;
+}
+.space2:hover {
+
+  opacity: 100%
+}
 .ui {
   background-color: #ffa5a5;
 }
@@ -170,11 +214,16 @@ margin-top: 10px;
 
 
 .ui-link {
-  
+  width: 300px;
+  height:300px;
+  position: relative;
+  bottom: 20%;
 }
 .web-development {
-  
+  width: 300px;
+  height:300px;
 }
 .graphic-design {
-  
+  width: 300px;
+  height:300px;
 }
