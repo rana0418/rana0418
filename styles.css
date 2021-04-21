@@ -51,10 +51,12 @@ p {
 
 }
 .me {
-margin-top: 40px;
-  width: 200px;
+margin-top: 2em;
+  margin-left:2em;
+  width: 500px;
   border-radius: 100%;
   display:inline;
+  align-left:2em;
 
 }
 
