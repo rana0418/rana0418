@@ -93,7 +93,8 @@ left: 30%;
 
 }
 .skill-row {
-
+position:relative;
+display:inline-block;
 text-align: left;
 }
 .btn {
