@@ -154,9 +154,6 @@ margin-top: 10px;
   position:relative;
 }
 .description {
-  position: relative;
-  right:24rem;
-  bottom:24rem;
   text-align: left;
 }
 #challenge:hover {
