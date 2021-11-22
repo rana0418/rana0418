@@ -142,7 +142,7 @@ margin-top: 10px;
 
 #challenge
 {
-  width: 45%;
+  width: 70%;
   transition: width .5s;
   position:relative;
   left:15%;
@@ -158,7 +158,7 @@ margin-top: 10px;
  
 }
 #challenge:hover {
-  width:60%;
+  width:75%;
 
 }
 .space1 {
